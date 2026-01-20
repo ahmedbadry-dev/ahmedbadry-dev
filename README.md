@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Ahmed Badry 👋  
+Front-End Developer | React.js & TypeScript
 
-<!--
-**ahmedbadry-dev/ahmedbadry-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Front-End Developer focused on building **scalable, real-world React applications** with clean architecture and predictable state management.
 
-Here are some ideas to get you started:
+I enjoy working on applications that involve **real business logic**, not just UI — such as multi-role systems, data-driven interfaces, and complex user interactions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 What I focus on
+- React.js (Hooks, Component Architecture)
+- TypeScript
+- State Management (Redux Toolkit)
+- SPA Architecture & Routing
+- Clean, maintainable UI code
+- REST APIs & async data handling
+
+---
+
+## 🚀 Featured Projects
+- 🏥 **Medical Multi-Role Web App**  
+  Multi-dashboard system (Patient / Doctor / Admin / Guest) with booking, authentication, and AI-driven results.
+
+- 🎮 **Assembly Endgame**  
+  Interactive game built with React focusing on state-driven UI and complex game logic.
+
+- 💬 **Product Feedback App**  
+  Data-driven feedback system with filtering, sorting, and scalable state management.
+
+---
+
+## 🛠️ Tech Stack
+- JavaScript (ES6+)
+- React.js
+- TypeScript
+- Redux Toolkit
+- HTML / CSS / SCSS / Tailwind CSS
+- Git & GitHub
+
+---
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/ahmedbadry-dev
+- Email: ahmedbadry.dev@gmail.com
