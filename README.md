@@ -112,11 +112,11 @@ Interactive bill splitting application with dynamic calculations and responsive 
 
 ---
 
-# ⚡ Technologies I Work With
+# 🔥 Coding Activity
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,redux,tailwind,nodejs,git,github,vscode" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmedbadry-dev&theme=tokyonight"/>
 
 </p>
 
