@@ -88,7 +88,7 @@ Feedback platform with filtering, sorting, and scalable state management.
 
 <a href="https://github.com/ahmedbadry-dev/Splitter-App">
 
-<img src="https://raw.githubusercontent.com/ahmedbadry-dev/Splitter-App/main/screenshots/preview.png" width="100%" alt="Splitter App"/>
+<img src="https://raw.githubusercontent.com/ahmedbadry-dev/Splitter-App/main/screenshots/main.png" width="100%" alt="Splitter App"/>
 
 ### Splitter App
 
