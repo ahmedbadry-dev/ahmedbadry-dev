@@ -122,17 +122,7 @@ Interactive bill splitting application with dynamic calculations and responsive 
 
 </p>
 
----
 
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ahmedbadry-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedbadry-dev&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>>
 
 ---
 
