@@ -112,11 +112,11 @@ Interactive bill splitting application with dynamic calculations and responsive 
 
 ---
 
-# 📈 GitHub Activity
+# ⚡ Technologies I Work With
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedbadry-dev&theme=tokyo-night&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,redux,tailwind,nodejs,git,github,vscode" />
 
 </p>
 
