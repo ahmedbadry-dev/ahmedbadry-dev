@@ -128,9 +128,11 @@ Interactive bill splitting application with dynamic calculations and responsive 
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedbadry-dev&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ahmedbadry-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedbadry-dev&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>>
 
 ---
 
