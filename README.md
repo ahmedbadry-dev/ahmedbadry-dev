@@ -112,13 +112,11 @@ Interactive bill splitting application with dynamic calculations and responsive 
 
 ---
 
-# 📊 GitHub Stats
+# 📈 GitHub Activity
 
 <p align="center">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ahmedbadry-dev&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ahmedbadry-dev&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedbadry-dev&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
