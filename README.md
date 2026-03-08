@@ -1,8 +1,16 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Ahmed%20Badry&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Ahmed Badry</h1>
 <h3 align="center">Frontend Engineer | React • Next.js • TypeScript</h3>
 
 <p align="center">
 I build scalable, production-ready web applications with strong focus on performance, maintainability, and user experience.
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=ahmedbadry-dev&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
 
 ---
@@ -27,7 +35,7 @@ Most of my work revolves around:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,tailwind,html,css,git,github" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,tailwind,html,css,git,github,vscode" />
 
 </p>
 
@@ -80,7 +88,7 @@ Feedback platform with filtering, sorting, and scalable state management.
 
 <a href="https://github.com/ahmedbadry-dev/Splitter-App">
 
-<img src="https://raw.githubusercontent.com/ahmedbadry-dev/Splitter-App/main/screenshots/main.png" width="100%" alt="Splitter App"/>
+<img src="https://raw.githubusercontent.com/ahmedbadry-dev/Splitter-App/main/screenshots/preview.png" width="100%" alt="Splitter App"/>
 
 ### Splitter App
 
@@ -108,9 +116,29 @@ Interactive bill splitting application with dynamic calculations and responsive 
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ahmedbadry-dev&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ahmedbadry-dev&show_icons=true&theme=tokyonight" height="160"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedbadry-dev&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedbadry-dev&layout=compact&theme=tokyonight" height="160"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedbadry-dev&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/ahmedbadry-dev/ahmedbadry-dev/output/github-contribution-grid-snake.svg"/>
 
 </p>
 
@@ -118,11 +146,14 @@ Interactive bill splitting application with dynamic calculations and responsive 
 
 # 📫 Contact
 
-📧 Email  
-ahmedbadry.dev@gmail.com  
+🌐 Portfolio  
+https://portfolio-ah2.vercel.app/
 
 💼 LinkedIn  
 https://www.linkedin.com/in/ahmedbadry-dev
+
+📧 Email  
+ahmedbadry.dev@gmail.com  
 
 ---
 
