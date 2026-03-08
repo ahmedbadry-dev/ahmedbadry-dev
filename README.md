@@ -2,25 +2,24 @@
 <h3 align="center">Frontend Engineer | React • Next.js • TypeScript</h3>
 
 <p align="center">
-Building scalable, production-ready web applications with strong focus on performance, clean architecture, and user experience.
+I build scalable, production-ready web applications with strong focus on performance, maintainability, and user experience.
 </p>
 
 ---
 
 # 🚀 About Me
 
-I'm a **Frontend Engineer** focused on building real-world applications using the modern React ecosystem.
+Frontend Engineer focused on building **real-world React applications** with clean architecture and predictable state management.
 
-I enjoy working on products that involve **real business logic**, not just UI.
+I enjoy turning complex product requirements into **maintainable interfaces and scalable frontend systems**.
 
-Things I often deal with in my projects:
+Most of my work revolves around:
 
-- Authentication flows
+- React & Next.js
+- TypeScript
 - Data fetching & caching
-- Complex state management
-- Scalable frontend architecture
-- Real-time updates
-- Optimistic UI patterns
+- State management
+- Real-world product logic
 
 ---
 
@@ -43,9 +42,9 @@ Things I often deal with in my projects:
 
 <td width="50%" align="center">
 
-<a href="https://github.com/ahmedbadry-dev/habit-tracker">
+<a href="https://github.com/ahmedbadry-dev/Habit-Tracker">
 
-<img src="YOUR_IMAGE_LINK" width="100%" alt="Habit Tracker"/>
+<img src="https://raw.githubusercontent.com/ahmedbadry-dev/Habit-Tracker/main/screenshots/dashboard.png" width="100%" alt="Habit Tracker"/>
 
 ### Habit Tracker
 
@@ -59,9 +58,9 @@ Production-ready habit tracking application with analytics dashboard and real-ti
 
 <td width="50%" align="center">
 
-<a href="https://github.com/ahmedbadry-dev/product-feedback">
+<a href="https://github.com/ahmedbadry-dev/productFeedBack">
 
-<img src="YOUR_IMAGE_LINK" width="100%" alt="Product Feedback"/>
+<img src="https://raw.githubusercontent.com/ahmedbadry-dev/productFeedBack/main/screenshots/main.png" width="100%" alt="Product Feedback"/>
 
 ### Product Feedback
 
@@ -79,9 +78,9 @@ Feedback platform with filtering, sorting, and scalable state management.
 
 <td width="50%" align="center">
 
-<a href="https://github.com/ahmedbadry-dev/splitter-app">
+<a href="https://github.com/ahmedbadry-dev/Splitter-App">
 
-<img src="YOUR_IMAGE_LINK" width="100%" alt="Splitter App"/>
+<img src="https://raw.githubusercontent.com/ahmedbadry-dev/Splitter-App/main/screenshots/preview.png" width="100%" alt="Splitter App"/>
 
 ### Splitter App
 
@@ -117,7 +116,7 @@ Interactive bill splitting application with dynamic calculations and responsive 
 
 ---
 
-# 📫 Contact Me
+# 📫 Contact
 
 📧 Email  
 ahmedbadry.dev@gmail.com  
@@ -125,8 +124,6 @@ ahmedbadry.dev@gmail.com
 💼 LinkedIn  
 https://www.linkedin.com/in/ahmedbadry-dev
 
-📧 Portfolio  
-https://portfolio-ah2.vercel.app
 ---
 
 ⭐ If you find my projects interesting, feel free to explore the repositories and leave a star.
