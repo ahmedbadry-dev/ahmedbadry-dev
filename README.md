@@ -137,7 +137,7 @@ Interactive bill splitting application with dynamic calculations and responsive 
 # 📫 Contact
 
 🌐 Portfolio  
-https://portfolio-ah2.vercel.app/
+https://portfolio-ah2.vercel.app
 
 💼 LinkedIn  
 https://www.linkedin.com/in/ahmedbadry-dev
