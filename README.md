@@ -116,47 +116,112 @@ const ahmed: FrontendEngineer = {
 ## 🚀 Featured Projects
 
 <div align="center">
+<table>
 
-### 📊 Habit Tracker
-[![Habit Tracker](https://raw.githubusercontent.com/ahmedbadry-dev/Habit-Tracker/main/screenshots/dashboard.png)](https://github.com/ahmedbadry-dev/Habit-Tracker)
+<!-- ROW 1 -->
+<tr>
 
-> Production-ready habit tracking system with real-time updates, analytics dashboard, and streak management.
+<td width="50%" valign="top">
+<div align="center">
 
-**Stack:** `Next.js` · `TypeScript` · `Convex` · `TanStack Query`
+<!-- PROJECT CARD 1 -->
+<a href="https://github.com/ahmedbadry-dev/Habit-Tracker">
+<img src="https://raw.githubusercontent.com/ahmedbadry-dev/Habit-Tracker/main/screenshots/dashboard.png" width="100%" style="border-radius:10px"/>
+</a>
 
-**✨ What makes it stand out:**
-⚡ Real-time sync with Convex backend &nbsp;|&nbsp; 📈 Analytics dashboard with meaningful metrics &nbsp;|&nbsp; 🔥 Streak logic & habit scoring engine &nbsp;|&nbsp; 🏗 Custom hooks architecture
+<br/><br/>
 
-[![View Repo](https://img.shields.io/badge/View%20Repository-%23121011.svg?style=for-the-badge&logo=github&logoColor=00d4ff)](https://github.com/ahmedbadry-dev/Habit-Tracker)
+**[📊 Habit Tracker](https://github.com/ahmedbadry-dev/Habit-Tracker)**
 
----
+<img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Convex-EE342F?style=flat-square"/> <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square"/>
 
-### 💬 Product Feedback
-[![Product Feedback](https://raw.githubusercontent.com/ahmedbadry-dev/productFeedBack/main/screenshots/main.png)](https://github.com/ahmedbadry-dev/productFeedBack)
+Production-ready habit tracking system with real-time sync, analytics dashboard, and streak management engine.
 
-> Collaborative feedback platform with full CRUD, filtering, sorting, voting, and comment threading.
+`⚡ Real-time` &nbsp; `📈 Analytics` &nbsp; `🔥 Streak Logic` &nbsp; `🏗 Custom Hooks`
 
-**Stack:** `React` · `TypeScript` · `Redux Toolkit`
+[![](https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github&logoColor=00d4ff)](https://github.com/ahmedbadry-dev/Habit-Tracker)
 
-**✨ What makes it stand out:**
-🔄 Complex state with Redux Toolkit slices &nbsp;|&nbsp; 🔍 Multi-criteria filtering & sort engine &nbsp;|&nbsp; 🗂 Nested comment threads &nbsp;|&nbsp; 📦 Normalized state shape
+</div>
+</td>
 
-[![View Repo](https://img.shields.io/badge/View%20Repository-%23121011.svg?style=for-the-badge&logo=github&logoColor=00d4ff)](https://github.com/ahmedbadry-dev/productFeedBack)
+<td width="50%" valign="top">
+<div align="center">
 
----
+<!-- PROJECT CARD 2 -->
+<a href="https://github.com/ahmedbadry-dev/productFeedBack">
+<img src="https://raw.githubusercontent.com/ahmedbadry-dev/productFeedBack/main/screenshots/main.png" width="100%" style="border-radius:10px"/>
+</a>
 
-### 🧮 Splitter App
-[![Splitter App](https://raw.githubusercontent.com/ahmedbadry-dev/Splitter-App/main/screenshots/main.png)](https://github.com/ahmedbadry-dev/Splitter-App)
+<br/><br/>
 
-> Dynamic bill splitting calculator with custom tip logic and instant multi-person breakdown.
+**[💬 Product Feedback](https://github.com/ahmedbadry-dev/productFeedBack)**
 
-**Stack:** `React` · `TypeScript` · `CSS`
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux"/>
 
-**✨ What makes it stand out:**
-🎯 Pixel-perfect UI from Figma challenge &nbsp;|&nbsp; 🔢 Edge-case-safe calculation engine &nbsp;|&nbsp; 📱 Fully responsive &nbsp;|&nbsp; ♿ ARIA-compliant
+Collaborative feedback platform with filtering, voting, sorting, and nested comment threading.
 
-[![View Repo](https://img.shields.io/badge/View%20Repository-%23121011.svg?style=for-the-badge&logo=github&logoColor=00d4ff)](https://github.com/ahmedbadry-dev/Splitter-App)
+`🔄 Redux Slices` &nbsp; `🔍 Multi-Filter` &nbsp; `🗂 Comments` &nbsp; `📦 Normalized State`
 
+[![](https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github&logoColor=00d4ff)](https://github.com/ahmedbadry-dev/productFeedBack)
+
+</div>
+</td>
+
+</tr>
+
+<!-- ROW 2 -->
+<tr>
+
+<td width="50%" valign="top">
+<div align="center">
+
+<!-- PROJECT CARD 3 -->
+<a href="https://github.com/ahmedbadry-dev/Splitter-App">
+<img src="https://raw.githubusercontent.com/ahmedbadry-dev/Splitter-App/main/screenshots/main.png" width="100%" style="border-radius:10px"/>
+</a>
+
+<br/><br/>
+
+**[🧮 Splitter App](https://github.com/ahmedbadry-dev/Splitter-App)**
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3"/>
+
+Dynamic bill splitting calculator with custom tip logic and instant multi-person breakdown.
+
+`🎯 Pixel-Perfect` &nbsp; `🔢 Safe Calc` &nbsp; `📱 Responsive` &nbsp; `♿ ARIA`
+
+[![](https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github&logoColor=00d4ff)](https://github.com/ahmedbadry-dev/Splitter-App)
+
+</div>
+</td>
+
+<td width="50%" valign="top">
+<div align="center">
+
+<!-- PROJECT CARD 4 -->
+<a href="https://github.com/ahmedbadry-dev/Z-social-platform">
+<img src="https://raw.githubusercontent.com/ahmedbadry-dev/Z-social-platform/main/screenshots/main.png" width="100%" style="border-radius:10px"/>
+</a>
+
+<br/><br/>
+
+**[🌐 Z Social Platform](https://github.com/ahmedbadry-dev/Z-social-platform)**
+
+<img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+
+> *(Add your stack badges & description here)*
+
+Full-featured social platform with real-time feed, user interactions, and scalable architecture.
+
+`🔴 Real-time Feed` &nbsp; `👥 Social Graph` &nbsp; `🔔 Notifications`
+
+[![](https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github&logoColor=00d4ff)](https://github.com/ahmedbadry-dev/Z-social-platform)
+
+</div>
+</td>
+
+</tr>
+</table>
 </div>
 
 <br/>
