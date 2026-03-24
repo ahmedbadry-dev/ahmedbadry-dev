@@ -199,23 +199,23 @@ Dynamic bill splitting calculator with custom tip logic and instant multi-person
 <div align="center">
 
 <!-- PROJECT CARD 4 -->
-<a href="https://github.com/ahmedbadry-dev/Z-social-platform">
-<img src="https://raw.githubusercontent.com/ahmedbadry-dev/Z-social-platform/main/screenshots/main.png" width="100%" style="border-radius:10px"/>
+<a href="https://github.com/ahmedbadry-dev/z-social">
+<img src="https://raw.githubusercontent.com/ahmedbadry-dev/z-social/main/screenshots/main.png" width="100%" style="border-radius:10px"/>
 </a>
 
 <br/><br/>
 
-**[🌐 Z Social Platform](https://github.com/ahmedbadry-dev/Z-social-platform)**
+**[🌐 Z Social Platform](https://github.com/ahmedbadry-dev/z-social)**
 
-<img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js_16-black?style=flat-square&logo=next.js"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Convex-EE342F?style=flat-square"/> <img src="https://img.shields.io/badge/Tailwind_v4-38bdf8?style=flat-square&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/Zustand-433e38?style=flat-square"/> <img src="https://img.shields.io/badge/Better_Auth-6366f1?style=flat-square"/>
 
-> *(Add your stack badges & description here)*
+Full-stack social platform with real-time DMs, 6-type reactions, nested comments, OAuth & OTP auth, and private accounts.
 
-Full-featured social platform with real-time feed, user interactions, and scalable architecture.
+`🔴 Real-time Feed` &nbsp; `💬 Direct Messages` &nbsp; `🔔 Notifications` &nbsp; `🔐 Auth System`
 
-`🔴 Real-time Feed` &nbsp; `👥 Social Graph` &nbsp; `🔔 Notifications`
-
-[![](https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github&logoColor=00d4ff)](https://github.com/ahmedbadry-dev/Z-social-platform)
+[![](https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github&logoColor=00d4ff)](https://github.com/ahmedbadry-dev/z-social)
+&nbsp;
+[![](https://img.shields.io/badge/Live_Demo-00d4ff?style=for-the-badge&logo=vercel&logoColor=black)](https://z-social-rouge.vercel.app)
 
 </div>
 </td>
